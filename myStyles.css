@@ -1,3 +1,4 @@
 body {
-   background-image: ("cod.jpg");
+   background-image: url("cod.jpg");
+   background-color: #CCCC;
 }
