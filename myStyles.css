@@ -1,4 +1,6 @@
 body {
    background-image: url(./images/javascript.jpeg);
    background-color: #FFD700;
+   background-size: cover;
+   background-position: right corner;
 }
